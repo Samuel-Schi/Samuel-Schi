@@ -1,6 +1,6 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oii ! Sou o Samuel  
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Samuel-Schi/Samuel-Schi">https://github.com/Samuel-Schi/Samuel-Schi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 <div>
