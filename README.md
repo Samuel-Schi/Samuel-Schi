@@ -23,7 +23,7 @@
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
-[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=blender"/>]
+<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=blender"/>
 
 ##
 
