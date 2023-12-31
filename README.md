@@ -12,8 +12,7 @@
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=py"/>
 
 ##
 
