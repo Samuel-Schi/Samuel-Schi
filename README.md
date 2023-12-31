@@ -1,21 +1,40 @@
-## Oii ! Sou o Samuel  
- <div>
-  <a href="https://github.com/Samuel-Schi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Schi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
-  
-  ##
+## Hello, Devs!! 👋
+### O meu nome é Samuel, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 🔰  Sou de Jundiái/SP, Brasil
+- ⚡ Apaixonado por Leitura e Tecnologia
+- 🧠 Estudante de Engenharia de Software e Ciência de dados e formado em Ciências da Computação
+##
+#### Estou aprendendo sobre:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+##
+
+#### Ferramentas que uso:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
+
+##
+
+#### Como entrar em contato comigo:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/israelltulio)
+##
+
+#### Estatísticas:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
+##
  
 <div> 
  
