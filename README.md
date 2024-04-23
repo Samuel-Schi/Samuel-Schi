@@ -36,10 +36,8 @@
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&amp;theme=radical"/>](https://github.com/)
 ##
- 
-<div> 
- 
-  <a href="https://www.linkedin.com/in/samuel-schiavo-843bbb209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
  
   ![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/blob/output/github-contribution-grid-snake.svg)
  
