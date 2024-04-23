@@ -3,7 +3,7 @@
 
 - 🔰  Sou de Jundiái/SP, Brasil
 - ⚡ Apaixonado por Leitura e Tecnologia
-- 🧠 Estudante de Engenharia de Software e Ciência de dados e formado em Ciências da Computação
+- 🧠 Estudante de Engenharia de Software e formado em Ciências da Computação
 ##
 #### Estou aprendendo sobre:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
