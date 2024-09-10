@@ -1,7 +1,7 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Samuel, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Jundiái/SP, Brasil
+- 🔰  Sou de Jundiaí/SP, Brasil
 - ⚡ Apaixonado por Leitura e Tecnologia
 - 🧠 Estudante de Engenharia de Software e formado em Ciências da Computação
 ##
