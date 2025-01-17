@@ -38,7 +38,7 @@
 
 ### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical&token=SEU_TOKEN"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical&token=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"/>](https://github.com/)
 [<img height="153px" alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=radical"/>](https://github.com/)
 
 ---
