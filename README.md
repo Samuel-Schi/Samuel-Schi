@@ -42,9 +42,9 @@
 
 ### Minhas Estatísticas no GitHub:
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical)](https://github.com/anurag-dev/github-readme-stats)
+[![Estatísticas do GitHub - Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical)](https://github.com/anurag-dev/github-readme-stats)
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anurag-dev/github-readme-stats)
+[![Estatísticas do GitHub - Geral](https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anurag-dev/github-readme-stats)
 
 [![Estatísticas de Streak do GitHub](http://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
