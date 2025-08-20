@@ -6,7 +6,7 @@
 
 - 🔰 Sou de Jundiaí/SP, Brasil  
 - ⚡ Apaixonado por Leitura e Tecnologia  
-- 🧠 Estudante de Engenharia de Software e formado em Ciências da Computação  
+- 🧠 Formado em Ciências da Computação  
 
 ---
 
