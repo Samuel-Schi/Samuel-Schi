@@ -42,12 +42,12 @@
 
 ### Estatísticas:
 
-[<img height="180px" alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical"/>](https://github.com/samuel-schi)
-[<img height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/samuel-schi)
-[<img height="153px" alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=radical"/>](https://github.com/samuel-schi)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical)](https://github.com/samuel-schi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/samuel-schi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=radical)](https://github.com/samuel-schi)
 
 ---
 
-<div>
-  ![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/blob/output/github-contribution-grid-snake.svg)
-</div>
+### Snake Animation:
+
+![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/raw/output/github-contribution-grid-snake.svg)
