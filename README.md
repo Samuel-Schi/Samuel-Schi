@@ -48,7 +48,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Samuel-Schi)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samuel-Schi&theme=radical)](https://github.com/Samuel-Schi)  
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Samuel-Schi&theme=radical" alt="GitHub Streak" />  
 
 </div>
 
@@ -57,4 +57,3 @@
 ### Snake Animation:
 
 ![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/blob/output/github-contribution-grid-snake.svg)
-
