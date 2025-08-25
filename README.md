@@ -26,7 +26,7 @@
 
 [<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 [<img height="48px" width="48px" alt="Blender" src="https://skillicons.dev/icons?i=blender"/>](https://www.blender.org/)
@@ -42,12 +42,19 @@
 
 ### Estatísticas:
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&langs_count=7&theme=radical)](https://github.com/samuel-schi)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=samuel-schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/samuel-schi)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=radical)](https://github.com/samuel-schi)
+<div align="center">
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Schi&layout=compact&langs_count=7&theme=radical)](https://github.com/Samuel-Schi)  
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Samuel-Schi)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samuel-Schi&theme=radical)](https://github.com/Samuel-Schi)  
+
+</div>
 
 ---
 
 ### Snake Animation:
 
-![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Samuel-Schi/Samuel-Schi/blob/output/github-contribution-grid-snake.svg)
+
