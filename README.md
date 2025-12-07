@@ -1,74 +1,112 @@
-<h1 align="center">👋 Olá, desenvolvedores! Eu sou o Samuel — bem-vindo ao meu GitHub!</h1>
+<!-- Banner / apresentação-->
+<h1 align="center">👋 Olá, desenvolvedores!  
+Meu nome é <strong>Samuel Schiavo</strong></h1>
 
 <h3 align="center">
-🔰 De Jundiaí/SP – Brasil  
-⚡ Apaixonado por Leitura & Tecnologia  
-🎓 Formado em Ciências da Computação  
+🔰 Jundiaí/SP • 📘 Apaixonado por Leitura e Tecnologia  
+🧠 Formado em Ciências da Computação • 🚀 Desenvolvedor Full Stack
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuel-schi&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" />
-</p>
+<br/>
 
+---
+
+## 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=samuel-schi&theme=flat&margin-w=10" alt="Trophies" />
+  <a href="https://www.linkedin.com/in/samuel-schiavo-843bbb209" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Schiavo-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## 🔗 **Conecte-se comigo**
-
+## 👀 Visitas no perfil
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-schiavo-843bbb209/" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" height="40" width="50" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=samuel-schi&label=Profile%20views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**
+## 🛠️ Tecnologias que domino
 
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/></a>
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
-  <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45" height="45"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/></a>
-  <a href="https://blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
+
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+
+<!-- Bancos -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<!-- Outros -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="45"/>
+
 </p>
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 🚀 Projetos em destaque
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-schi&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&theme=tokyonight" />
-</p>
+<a href="https://github.com/samuel-schi/fsw-donalds">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel-schi&repo=fsw-donalds&theme=radical" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-schi&layout=compact&theme=tokyonight" />
+<a href="https://github.com/samuel-schi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuel-schi&repo=portfolio&theme=radical" />
+</a>
+
 </p>
 
 ---
 
-## 🐍 **Cobra do GitHub (Snake Animation)**
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github.com/Samuel-Schi/Samuel-Schi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-schi&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-schi&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🐍 A Cobra consumindo seus commits (Snake)
+
+> ⚠ Para funcionar, você precisa criar este repositório:  
+“**samuel-schi**” → e dentro dele colocar este README.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuel-schi/samuel-schi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Sobre mim
+
+- 💼 Sempre buscando evoluir como desenvolvedor  
+- 📚 Estudando Next.js, TypeScript e Prisma  
+- 🎮 Apaixonado por criar e explorar experiências digitais  
+- 🤝 Aberto para colaborações e novos desafios!
+
+---
+
+## 💬 "Sempre dê o seu máximo. Sua evolução é inevitável."
+
+<br/>
+
+<h3 align="center">Obrigado por visitar! 🚀</h3>
