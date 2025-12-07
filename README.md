@@ -1,58 +1,23 @@
-## Hello, Devs!! 👋
+<h1 align="center">Olá, desenvolvedores!! 👋 Meu nome é Samuel, seja bem-vindo ao meu perfil GitHub.</h1>
+<h3 align="center">🔰 Sou de Jundiaí/SP, Brasil ⚡ Apaixonado por Leitura e Tecnologia 🧠 Formado em Ciências da Computação</h3>
 
-### O meu nome é Samuel, seja bem-vindo ao meu perfil GitHub.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-schi&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-schi" /> </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="200px" align="right">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuel-schi" alt="samuel-schi" /></a> </p>
 
-- 🔰 Sou de Jundiaí/SP, Brasil  
-- ⚡ Apaixonado por Leitura e Tecnologia  
-- 🧠 Formado em Ciências da Computação  
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samuel schiavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel schiavo" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### Estou aprendendo sobre:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-schi&show_icons=true&locale=en&layout=compact" alt="samuel-schi" /></p>
 
-[<img height="48px" width="48px" alt="HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
-[<img height="48px" width="48px" alt="React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
-[<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org/)
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-schi&show_icons=true&locale=en" alt="samuel-schi" /></p>
 
----
-
-### Ferramentas que uso:
-
-[<img height="48px" width="48px" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
-[<img height="48px" width="48px" alt="Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
-[<img height="48px" width="48px" alt="Blender" src="https://skillicons.dev/icons?i=blender"/>](https://www.blender.org/)
-[<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
-
----
-
-### Como entrar em contato comigo:
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/samuel-schiavo-843bbb209)
-
----
-
-### Estatísticas:
-
-<div align="center">
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Schi&layout=compact&langs_count=7&theme=radical)](https://github.com/Samuel-Schi)  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Schi&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/Samuel-Schi)  
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Samuel-Schi&theme=radical" alt="GitHub Streak" />  
-
-</div>
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-schi&" alt="samuel-schi" /></p>
 
 ### Snake Animation:
 
