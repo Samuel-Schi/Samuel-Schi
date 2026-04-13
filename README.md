@@ -121,5 +121,5 @@ sempre buscando eficiência e confiabilidade nos processos.
 <h2>Contribuições</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samuel-Schi/Samuel-Schi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Samuel-Schi/Samuel-Schi/output/github-contribution-grid-snake-dark.svg" />
 </p>
