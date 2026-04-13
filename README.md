@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:001a00&height=240&section=header&text=Samuel%20Schiavo&fontSize=45&fontColor=00ff41&animation=fadeIn&desc=Full%20Stack%20%7C%20Cybersecurity%20%7C%20Data&descSize=18&descAlignY=65&descColor=00ff41"/>
+  <img src="assets/banner - sa.png"/>
 </p>
 
 <p align="center">
