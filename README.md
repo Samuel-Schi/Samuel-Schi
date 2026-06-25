@@ -111,7 +111,7 @@ sempre buscando eficiência e confiabilidade nos processos.
   <a href="https://www.linkedin.com/in/samuel-schiavo-843bbb209/">
     <img src="assets/linkedin.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/gaabdev/">
+  <a href="">
     <img src="assets/instagram.svg" width="40"/>
   </a>
 </p>
